@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PocketBank.User.Business.Common\PocketBank.User.Business.Common.csproj" />
+    <ProjectReference Include="..\PocketBank.User.DataAccess.Common\PocketBank.User.DataAccess.Common.csproj" />
+    <ProjectReference Include="..\PocketBank.User.DataAccess\PocketBank.User.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

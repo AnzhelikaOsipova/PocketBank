@@ -1,0 +1,11 @@
+[
+  {
+    "Id": "00000000-0000-0000-0000-000000000001",
+    "FirstName": "Анатолий",
+    "LastName": "Петров",
+    "MiddleName": null,
+    "PassportNumber": "1234123456",
+    "Email": "anatoliy@pocketbank.fake",
+    "Password": "qwerty25!"
+  }
+]
